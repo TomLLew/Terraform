@@ -1,0 +1,3 @@
+./Terraform-intermediate/.terraform/*
+./Terraform-intermediate/terraform.tfstate
+./Terraform-intermediate/terraform.tfstate.backup
